@@ -1,0 +1,1 @@
+VERSION PUBLIQUE SANS DONNEES PERSONNELLES. Ne publiez jamais vos exports JSON, CSV, photographies ou identifiants SwitchBot. Les donnees sont conservees localement dans le navigateur.
