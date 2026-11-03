@@ -1,0 +1,9 @@
+Observatoire V9 — corrections initiales
+- En-tête sans numéro de version.
+- Alertes de couverture fondées sur la fréquence observée et les heures couvertes, au lieu du seuil fixe de 1000.
+- Score de couverture adapté à la fréquence observée.
+- Tableau horizontal défilant sur téléphone.
+- Cache PWA versionné et stratégie réseau prioritaire avec repli hors ligne.
+- Base IndexedDB conservée (observatoire-v4), sauvegardes JSON V8 conservées.
+Avant toute mise à jour : conserver le fichier JSON déjà téléchargé.
+Tests : syntaxe JavaScript vérifiée ; tests fonctionnels sur Samsung et restauration JSON non effectués.

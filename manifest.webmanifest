@@ -1,1 +1,1 @@
-{"name": "Observatoire intérieur V8", "short_name": "Observatoire", "start_url": "./index.html", "display": "standalone", "background_color": "#f4f5f7", "theme_color": "#f4f5f7", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
+{"name": "Observatoire intérieur", "short_name": "Observatoire", "start_url": "./index.html", "display": "standalone", "background_color": "#f4f5f7", "theme_color": "#f4f5f7", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}

@@ -1,0 +1,5 @@
+Observatoire V9 : export JSON complet et partage Android vers Gmail.
+Le partage exige une action humaine et confirmation dans Gmail : ce n’est PAS un envoi automatique programmé.
+Pour un envoi automatique quotidien, il faudra une intégration Gmail OAuth et une synchronisation fiable des données (ou une autorisation utilisateur à chaque ouverture). Ne jamais intégrer de mot de passe Gmail dans le code GitHub public.
+Le JSON contient les photos et informations personnelles en clair. Conserver la boîte Gmail sécurisée par double authentification.
+Tester export, import sur appareil de test, partage et réception AVANT de déployer sur le téléphone principal.
